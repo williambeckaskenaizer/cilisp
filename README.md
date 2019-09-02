@@ -26,4 +26,4 @@ Then, simply enter ```./cilisp```.
 ciLisp interprets commands in the form of numbers and operations as follows:
 To add the integers 2 and 3, enter ```(add 2 3)```, and the result will be ```5.00000```.
 Beyond addition, ciLisp can compare two numbers, return the square root of numbers, take logarithms, absolute values, and more. 
-Expressions do not have to be singular. (add (add 1 3) (add 2 4)) is valid as well.
+Expressions do not have to be singular. ```(add (add 1 3) (add 2 4))``` is valid as well.
