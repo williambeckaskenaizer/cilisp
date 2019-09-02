@@ -1,0 +1,5 @@
+You will need to add a node for symbol references to the nodes 
+available for constructing abstract syntax trees of the programs.
+
+I am told here that I will next to construct another symbol reference list
+to note where I can construct an abstract syntax tree of the programs.
