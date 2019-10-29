@@ -3,7 +3,7 @@ ciLisp is a custom implementation of a compiler for s-expressions using List. Du
 
 ### How to run
 There are several components required for ciLisp to compile. 
-Please ensure that you're either on a Mac/Linux, or using the Ubuntu terminal for Windows.
+Please ensure that you're either on a Mac/Linux, or using a Windows Subsystem for Linux of your choice.
 
 #### For macOS 
 You will need to install [Brew](https://brew.sh/) or a similar package manager. 
@@ -12,7 +12,7 @@ Next, navigate to the folder containing cilisp, and type ```make clean```, follo
 Finally, run the program with ```./cilisp```.
 
 #### For Windows
-You will need to have the [Ubuntu Terminal](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6#activetab=pivot:overviewtab) installed. 
+You will need to have a Windows Subsystem for Linux installed. I use [Ubuntu Terminal](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6#activetab=pivot:overviewtab). 
 Once you have the Ubuntu CLI open, type ```sudo apt-get install flex bison```
 Next, navigate to the folder containing cilisp, and type ```make clean```, followed by ```make```.
 Finally, run the program with ```./cilisp```.
